@@ -1,0 +1,2 @@
+User: torque specification about brake caliber bolts
+AI: [RAG error: 'Input to PromptTemplate is missing variables {\'"attribute"\'}.  Expected: [\'"attribute"\', \'context\', \'query\'] Received: [\'query\', \'context\']']
